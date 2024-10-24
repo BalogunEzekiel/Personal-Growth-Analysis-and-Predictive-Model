@@ -90,6 +90,10 @@ Month 3 (January, 2025): Conduct three informational interviews and document key
 
 **PYTHON:**
 
+**Snapshot**
+![IMG-20241024-WA0000](https://github.com/user-attachments/assets/e2b3139e-4011-447d-b113-345e4c1fa635)
+
+
 I developed solutions leveraging Python and utilizing popular libraries such as Pandas, Matplotlib, and Seaborn to analyze and visualize the data. I also deployed scikit-learn (sklearn) and NumPy (np) for predictive modeling.
 
 **1. Personal Growth Roadmap:**
@@ -103,3 +107,5 @@ Professional Networking: Timeline for industry events and LinkedIn engagement.
 **2. 90-Day Milestones:**
 
 Tracking progress, completion dates and key milestones for each growth area.
+
+**_Check the attachment for the Python scritp._**
